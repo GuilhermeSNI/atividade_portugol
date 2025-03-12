@@ -6,5 +6,6 @@ programa {
     leia (val2)
     resul = (val1 - val2)
     escreva ("a subtração dos valores é " + resul)
+
   }
 }
